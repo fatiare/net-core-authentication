@@ -1,2 +1,5 @@
 # ignore all bin
 /Src/JWTAuthentication3.1/bin/
+
+# ignore all obj
+/Src/JWTAuthentication3.1/obj/
